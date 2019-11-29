@@ -1,0 +1,34 @@
+exemplo-entidades.txt
+
+VEICULOS
+id_veiculo (chave primaria)
+modelo
+cor
+ano
+placa
+
+
+FABRICANTES
+id_fabricante
+nome
+
+
+Quero gerenciar a parte um cadastro de Clientes,
+nele vou ter o nome, a data de nascimento, 
+endereco e a cidade onde ele mora.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
